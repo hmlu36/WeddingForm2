@@ -6,12 +6,12 @@ export default createRouter({
         {
             path: "/",
             name: "RegiestForm",
-            component: () => import("./components/RegiestForm.vue"),
+            component: () => import("/@/components/RegiestForm.vue"),
         },
         {
             path: "/carousel",
             name: "Carousel",
-            component: () => import("./components/Carousel.vue"),
+            component: () => import("/@/components/Carousel.vue"),
         },
     ],
 });

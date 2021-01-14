@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+
+#app {
+  font-family: 'Noto Sans TC';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+.swal2-content{
+  font-family: 'Noto Sans TC';
+}
+
+.swal2-title{
+  font-family: 'Noto Sans TC';
+}
